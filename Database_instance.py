@@ -1,3 +1,5 @@
+#Needed mysql-connector-python
+
 import mysql.connector
 myDB = mysql.connector.connect(
     host = "localhost",
